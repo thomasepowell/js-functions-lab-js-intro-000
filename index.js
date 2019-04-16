@@ -1,3 +1,3 @@
-function holidayCountdown(holiday, days){
+function holidayCountdown(holiday, days) {
   return '${days}'
 }
