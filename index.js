@@ -1,3 +1,3 @@
-function holidayCountdown(holiday, days){
-  return "$[days} days until ${holiday}!"
+function holidayCountdown(holiday){
+  return "days until ${holiday}!"
 }
